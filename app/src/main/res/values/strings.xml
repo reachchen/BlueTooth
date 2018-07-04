@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">智能硬件</string>
+    <string name="app_title_common">内蒙古自治区特种设备检验院</string>
+
+    <string name="app_title_main">综合检测设备客户端</string>
+
+    <string name="app_title_activity1">便携汽车侧滑仪</string>
+    <string name="app_title_activity2">厂车蓄电池盖板距离检测仪</string>
+    <string name="app_title_activity3">电梯轿厢关门阻力测试仪</string>
+    <string name="app_title_activity4">电梯缓冲器性能测试仪</string>
+
+    <string name="app_title_button_connected">设备连接</string>
+    <string name="app_title_button_connect">点击连接设备</string>
+    <string name="app_title_button_back">返回</string>
+    <string name="app_title_button_reset">重置</string>
+
+    <string name="app_unit_mm">mm</string>
+    <string name="app_unit_ms">ms</string>
+    <string name="app_unit_N">N</string>
+    <string name="app_unit_J">J</string>
+
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="no_data">No data</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+
+</resources>
